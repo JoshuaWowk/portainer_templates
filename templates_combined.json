@@ -3552,7 +3552,7 @@
           "container": "/config"
         }
       ]
-    }
+    },
     {
       "categories": [
         "Authentication Server"
